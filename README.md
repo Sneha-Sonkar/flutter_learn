@@ -1,16 +1,8 @@
-# flutter_learn
+This is a simple calculator that takes two numbers from the user and performs operatiosn like:
+Addition
+Subtraction
+Multiplication and 
+Division
+on them
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Sneha-Sonkar/flutter_learn/assets/113498752/be8b5c31-5749-4db2-b138-1b0bd186f974
